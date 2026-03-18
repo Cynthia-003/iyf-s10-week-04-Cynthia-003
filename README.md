@@ -1,4 +1,4 @@
-# Week {04}: {Calculator}
+# Week {04}: {Variables}
 
 ## Author
 - **Name:** Cynthia Njeri
